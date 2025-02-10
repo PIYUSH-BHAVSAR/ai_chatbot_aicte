@@ -68,7 +68,7 @@ streamlit run app.py
 
 ## **📷 Screenshot**
 *(Replace with an actual screenshot when available)*  
-![AI Chatbot Example](Example_input_output/Screenshot_2025-02-10_214553.png)
+![AI Chatbot Example](Example_input_output\Screenshot 2025-02-10 214553.png)
 
 ---
 
