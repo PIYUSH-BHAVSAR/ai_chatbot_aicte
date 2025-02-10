@@ -68,7 +68,7 @@ streamlit run app.py
 
 ## **📷 Screenshot**
 *(Replace with an actual screenshot when available)*  
-![AI Medical Assistant](https://via.placeholder.com/800x400?text=AI+Medical+Assistant+UI)
+![AI Chatbot Example](Example_input_output/Screenshot_2025-02-10_214553.png)
 
 ---
 
