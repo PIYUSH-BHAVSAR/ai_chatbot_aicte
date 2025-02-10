@@ -1,4 +1,3 @@
-
 ---
 
 ## **🩺 AI Medical Assistant (Mistral-7B)**  
@@ -66,16 +65,24 @@ streamlit run app.py
 
 ---
 
-## **📷 Screenshot**
+## **📷 Screenshots**
+The **`Example_input_output`** folder contains various input-output examples and screenshots of the chatbot in action.  
 
-<img src="Example_input_output\Screenshot 2025-02-10 214553.png"></img>
-
+### **Example Screenshot**
+<img src="Example_input_output/Screenshot 2025-02-10 214553.png"></img>
 
 ---
 
 ## **📜 File Structure**
 ```
 /ai_chatbot_aicte
+│── Example_input_output/  # Contains example screenshots & outputs
+│   ├── Screenshot 2025-02-10 214553.png
+│   ├── Screenshot 2025-02-10 214645.png
+│   ├── Screenshot 2025-02-10 214653.png
+│   ├── Screenshot 2025-02-10 214752.png
+│   ├── ex_input.pdf
+│   ├── EX_input_!.pdf
 │── .gitignore        # Ignore .env file
 │── .env              # Stores API key (DO NOT SHARE)
 │── requirements.txt  # List of dependencies
@@ -109,3 +116,4 @@ This project uses a `.env` file to store sensitive information.
 
 ## 🚀 Live Demo  
 🖥️ Try the AI Medical Assistant here: [Health Assistant AICTE](https://health-assistant-aicte.streamlit.app/)
+
