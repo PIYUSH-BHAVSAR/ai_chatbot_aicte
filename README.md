@@ -1,4 +1,3 @@
-Here’s your **updated README** with the correct GitHub repository link:  
 
 ---
 
@@ -102,24 +101,8 @@ This project uses a `.env` file to store sensitive information.
 
 ---
 
-## **📜 License**
-This project is licensed under the **MIT License**.
-
----
-
 ## **🤝 Contributing**
 🎉 Want to improve this project? Feel free to fork, create an issue, or submit a pull request!  
 
 ---
 
-This README now reflects the **correct repository link**:  
-🔗 **GitHub Repo:** [ai_chatbot_aicte](https://github.com/PIYUSH-BHAVSAR/ai_chatbot_aicte)
-
-Now, just commit and push the changes:
-```sh
-git add README.md
-git commit -m "Updated GitHub repo link in README"
-git push origin main
-```
-
-Let me know if you need any other modifications! 🚀😃
