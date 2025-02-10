@@ -106,3 +106,5 @@ This project uses a `.env` file to store sensitive information.
 
 ---
 
+## 🚀 Live Demo  
+🖥️ Try the AI Medical Assistant here: [Health Assistant AICTE](https://health-assistant-aicte.streamlit.app/)
