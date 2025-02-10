@@ -1,1 +1,3 @@
-health
+health 
+# Ignore API key file
+.env
